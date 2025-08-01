@@ -497,7 +497,7 @@ a:hover, a:active, a:focus {
 }
 
 #experience .experience-img-2 {
-  background: url('experience-img-2.png') no-repeat center center;
+  background: url('../images/experience-img-2.png') no-repeat center center;
   background-size: cover;
   width: 100%;
   height: 500px;
@@ -526,7 +526,7 @@ a:hover, a:active, a:focus {
 }
 
 #education .education-img {
-  background: url('education-img.png') no-repeat;
+  background: url('../images/education-img.png') no-repeat;
   background-size: contain;
   background-repeat: no-repeat;
   height: 400px; /* adjust as needed */
